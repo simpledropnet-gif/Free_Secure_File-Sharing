@@ -10,14 +10,13 @@
 </p>
 
 ---
-![SimpleDrop Screenshot](이미지_주소)
+![Image](https://github.com/user-attachments/assets/d3b7dc7f-ac45-41f4-a64f-548f334c68c1)
 
 ## 🔗 Why SimpleDrop?
 
 Traditional cloud storage is bloated. **SimpleDrop** is built for developers who need to move files **right now** without the overhead of accounts or privacy concerns.
 
 - **🖱️ Zero Friction:** Drag, drop, and get your link in seconds.
-- **🔐 Privacy-First:** No cookies, no IP logging, no intrusive tracking.
 - **⏳ Link-Based Auto-Deletion:** Files are automatically wiped from our servers after the expiration period.
 - **🛡️ Secure Transfer:** All data is protected by industry-standard HTTPS (SSL) encryption.
 
@@ -39,30 +38,29 @@ Sharing files has never been this straightforward:
 | :--- | :--- |
 | **Instant URL** | Get a shareable link immediately after upload. |
 | **Anonymous Sharing** | No email or registration required. Stay 100% anonymous. |
-| **S3 Reliability** | Powered by high-performance object storage for 99.9% uptime. |
 | **One-Time Purpose** | Perfect for QA testing, log sharing, and quick asset transfers. |
 | **Clean UI/UX** | A minimalist interface that stays out of your way. |
 
 ---
 
-## 🏗️ Technical Overview
-
-SimpleDrop is designed to be lightweight and reliable:
-
-- **Infrastructure:** Docker-based scalable environment.
-- **Storage:** S3-compatible high-performance storage.
-- **Network:** Global CDN-ready architecture for fast uploads/downloads.
-- **Security:** End-to-end encryption during transit.
+## ⭐ Show Your Support
+If you find SimpleDrop useful, please give us a star on GitHub! It helps us grow and keep providing this service for free.
 
 ---
 
-## 📄 License
+## ⚖️ Terms & Privacy
 
-This project is distributed under the **MIT License**.  
-For terms of service and privacy details, please visit [SimpleDrop.net](https://www.simpledrop.net).
+SimpleDrop is a professional file-sharing service. We prioritize your data security and privacy above all else. 
+
+- **Terms of Service:** Guidelines on acceptable use and service limits.
+- **Privacy Policy:** Our commitment to zero tracking and data protection.
+
+For more details, please visit our official policy page:
+👉 [https://www.simpledrop.net](https://www.simpledrop.net)
 
 ---
 
 <p align="center">
-  Built with ❤️ for the developer community.
+  <strong>SimpleDrop.net</strong> — <i>Reliable, Fast, and Secure.</i><br />
+  Designed and maintained by the SimpleDrop Team.
 </p>
