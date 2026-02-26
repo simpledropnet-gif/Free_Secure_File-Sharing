@@ -43,6 +43,14 @@ Sharing files has never been this straightforward:
 
 ---
 
+## ⚖️ Terms & Privacy
+
+SimpleDrop is a professional file-sharing service. We prioritize your data security and privacy above all else. For detailed **Privacy Policy** and **Terms of Service**, please visit our official website.
+
+👉 [https://www.simpledrop.net](https://www.simpledrop.net)
+
+---
+
 ## ⭐ Show Your Support
 If you find SimpleDrop useful, please give us a star on GitHub! It helps us grow and keep providing this service for free.
 
