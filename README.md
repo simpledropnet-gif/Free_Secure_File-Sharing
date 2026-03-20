@@ -63,4 +63,4 @@ If you find SimpleDrop useful, please give us a star on GitHub! It helps us grow
   No Signup. No Tracking. No Friction.
 </p>
 
-# Contact : manager@simpledrop.net
+## Contact : manager@simpledrop.net
