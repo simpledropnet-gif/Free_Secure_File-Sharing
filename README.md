@@ -62,3 +62,5 @@ If you find SimpleDrop useful, please give us a star on GitHub! It helps us grow
   <strong>The fastest way for developers to share files via a single secure link.</strong><br />
   No Signup. No Tracking. No Friction.
 </p>
+
+# Contact : manager@simpledrop.net
